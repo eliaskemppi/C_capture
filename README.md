@@ -1,4 +1,4 @@
-majority of the code in capture_test.c
+majority of the code is in capture_test.c
 
 Instructions:
 Test program takes two parameters, a number between 1 and 10 and a filename
