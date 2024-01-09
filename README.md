@@ -1,6 +1,6 @@
 majority of the code in capture_test.c
 
-Instructions
+Instructions:
 Test program takes two parameters, a number between 1 and 10 and a filename
 usage: ./capture_test [number] [filename]
 Use for example log.txt as file
